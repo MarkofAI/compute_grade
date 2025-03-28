@@ -15,7 +15,7 @@ This Python script collects a user's score, validates the input, and computes th
 ## How to Run
 1. Clone or download the repository.
 2. Open the terminal and navigate to the project folder.
-3. Run the script with `python grade_calculator.py` (or use the appropriate Python command for your environment).
+3. Run the script with `python compute_grade.py` (or use the appropriate Python command for your environment).
 4. Enter a score when prompted to see your grade.
 
 ## Example
