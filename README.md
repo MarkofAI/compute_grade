@@ -24,6 +24,3 @@ Enter your score: 0.85
 Your grade: B
 ```
 If an invalid input is provided, the user will be asked to enter a valid number.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
